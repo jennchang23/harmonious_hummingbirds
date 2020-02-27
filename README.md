@@ -31,9 +31,11 @@ Team:
 - Sanaz Shahbazian
 - Toshe Ayo-Ariyo
 
-Languages/Libraries Used:
+Languages/Libraries/Tools Used:
 -
 - Python
+- Pandas
+- Jupyter Notebook
 - Matplotlib
 - Google Maps
 
