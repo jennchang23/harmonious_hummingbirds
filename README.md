@@ -26,7 +26,7 @@ Team:
 -
 - Andrew Wright
 - Jennie Chang
-- Leo Ramirez
+- Leonardo Ramirez
 - Raymond Barry
 - Sanaz Shahbazian
 - Toshe Ayo-Ariyo
